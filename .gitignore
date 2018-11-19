@@ -49,3 +49,6 @@ perma-asset/
 # Generated coverage report
 coverage.xml
 .coverage
+
+# pycharm
+.idea/
