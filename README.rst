@@ -1,4 +1,3 @@
-test
 
 Websauna is a full stack Python web framework for building web services and back offices with admin interface and sign up process.
 
